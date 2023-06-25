@@ -1,0 +1,21 @@
+.navContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items:flex-start;
+    border: 1px solid white;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    overflow-x: none;
+    position: fixed;
+    left: 250px;
+    top: 150px;
+    height: 500px;
+  }
+  .navlink {
+    text-decoration: none;
+    transition-duration: 1s;
+    color: black;
+  }
+  
